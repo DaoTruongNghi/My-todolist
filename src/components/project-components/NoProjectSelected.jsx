@@ -1,6 +1,6 @@
 import React from "react";
-import noProjectImage from "../assets/no-projects.png";
-import Button from "./Button";
+import noProjectImage from "../../assets/no-projects.png";
+import Button from "../general-components/Button";
 
 export default function NoProjectSelected({ onStartAddProject }) {
   return (
